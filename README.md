@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nabeel Ayyad</h1>
 <h3 align="center">Full-stack Data scientist</h3>
 
-- 🔭 I’m currently working on **Machine learning**
+- 🔭 I’m currently working on **Machine learning | Data Analytics **
 
-- 🌱 I’m currently learning **Self-driving car | MLOps**
+- 🌱 I’m currently learning **Data Science at Scale | MLOps | Self-Driving Cars**
 
 - 📫 How to reach me **Nabeelbassam98@gmail.com**
 

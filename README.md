@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Machine learning**
 
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m currently learning **Self-driving car | MLOps**
 
 - 📫 How to reach me **Nabeelbassam98@gmail.com**
 

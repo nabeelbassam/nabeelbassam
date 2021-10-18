@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabeel Ayyad</h1>
-<h3 align="center">Full-stack Data scientist</h3>
+<h3 align="center">Full-Stack Data scientist</h3>
 
 - 🔭 I’m currently working on **Machine learning + Data Analytics**
 

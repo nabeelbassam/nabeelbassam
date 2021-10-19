@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nabeel Ayyad</h1>
 <h3 align="center">Full-Stack Data scientist</h3>
 
+- :zap: I love math, programming, data science, and books
+- 🌱 I’m addicted to learning and growing every day
 - 🔭 I’m currently working on **Machine learning + Data Analytics**
-
 - 🌱 I’m currently learning **Data Science at Scale | MLOps | Self-Driving Cars**
-
 - 📫 How to reach me **Nabeelbassam98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

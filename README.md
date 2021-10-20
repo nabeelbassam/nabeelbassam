@@ -4,8 +4,7 @@
 - :zap: I love math, programming, and books
 - 🌱 I’m addicted to learning and growing every day
 - 🔭 I’m currently working on **Machine learning + Data Analytics**
--![image](https://user-images.githubusercontent.com/20932849/138118859-42bd12c1-708c-466c-9cdb-ce379b8da430.png)
- I’m currently learning **Data Science at Scale | MLOps | Self-Driving Cars**
+- :books: I’m currently learning **Data Science at Scale | MLOps | Self-Driving Cars**
 - 📫 How to reach me **Nabeelbassam98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

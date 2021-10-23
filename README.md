@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabeel Ayyad</h1>
-<h3 align="center">Full-Stack Data scientist</h3>
+<h3 align="center">Full-Stack Data Scientist</h3>
 
 - :zap: I love math, programming, and books
 - 🌱 I’m addicted to learning and growing every day

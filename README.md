@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabeelbassam&show_icons=true&locale=en" alt="nabeelbassam" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelbassam&" alt="nabeelbassam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelbassam&theme=blood&date_format=M%20j%5B%2C%20Y%5D" alt="nabeelbassam" /></p>

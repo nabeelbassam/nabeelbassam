@@ -5,7 +5,7 @@
 - 🌱 I’m addicted to learning and growing every day
 - 🔭 I’m currently working on **Machine learning + Data Analytics**
 - :books: I’m currently learning **Data Science at Scale | MLOps | Self-Driving Cars**
-- 📫 How to reach me **Nabeelbassam98@gmail.com**
+- 📫 How to reach me **nabeelbassam98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

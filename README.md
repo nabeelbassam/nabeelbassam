@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabeel Ayyad</h1>
-<h3 align="center">Full-Stack Data Scientist</h3>
+<h3 align="center">Machine Learning Engineer</h3>
 
 - 🎖 I am a certified data scientist, who loves building machine learning systems.
 - :zap: I love math, programming, and books

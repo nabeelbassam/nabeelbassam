@@ -5,7 +5,7 @@
 - :zap: I love math, programming, and books
 - 🌱 I’m addicted to learning and growing every day
 - 🔭 I’m currently working on **Machine learning + Data Analytics**
-- :books: I’m currently learning **Machine Learning Engineerng | MLOps | Probabilistic Machine Learning**
+- :books: I’m currently learning **Machine Learning Engineerng | Computer vision**
 - 📫 How to reach me **nabeelbassam98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

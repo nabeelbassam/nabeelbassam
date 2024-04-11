@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nabeel Ayyad</h1>
 <h3 align="center">Machine Learning Engineer</h3>
 
-- 🎖 I am a certified data scientist, who loves building machine learning systems.
+- 🎖 I am a data scientist, who loves building machine learning systems.
 - :zap: I love math, programming, and books
 - 🌱 I’m addicted to learning and growing every day
 - 🔭 I’m currently working on **Machine learning + Data Analytics**

@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nabeel Ayyad</h1>
 <h3 align="center">Machine Learning Engineer</h3>
 
-- 🎖 I am a data scientist, who loves building machine learning systems.
+- 🎖 I am an AI Architect who loves building Data & AI systems.
 - :zap: I love math, programming, and books
 - 🌱 I’m addicted to learning and growing every day
-- 🔭 I’m currently working on **Machine learning + Data Analytics**
-- :books: I’m currently learning **Machine Learning Engineerng | Computer vision**
+- 🔭 I’m currently working on **Machine learning Engineering | GenAI | LLMs**
+- :books: I’m currently learning **Agentic AI | Architecture | Deep learning**
 - 📫 How to reach me **nabeelbassam98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

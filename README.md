@@ -4,8 +4,8 @@
 - 🎖 I am an AI Architect who loves building Data & AI systems.
 - :zap: I love math, programming, and books
 - 🌱 I’m addicted to learning and growing every day
-- 🔭 I’m currently working on **Machine learning Engineering | GenAI | LLMs**
-- :books: I’m currently learning **Agentic AI | Architecture | Deep learning**
+- 🔭 I’m currently working on **AI Engineering | GenAI | LLMs**
+- :books: I’m currently learning **Agentic AI | AI Architecture**
 - 📫 How to reach me **nabeelbassam98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
